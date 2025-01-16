@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning Projects<br>👯 I’m looking to collaborate on AI Projects<br>🌱 I’m currently learning Machine Learning and Cybersecurity<br>💬 Ask me about Technology and Self Improvement<br>⚡ Fun fact: I am a 1st degree black belt in Shotokan Karate<br>📫 How to reach me: myronsnewtab1@gmail.com
+🔭 I’m currently working on CyberSecurity Projects<br>👯 I’m looking to collaborate on AI and CyberSecurity Projects<br>🌱 I’m currently learning Network Attack Security<br>💬 Ask me about Technology and Self Improvement<br>⚡ Fun fact: I am a 1st degree black belt in Shotokan Karate<br>📫 How to reach me: myronsnewtab1@gmail.com
 
 
 ## 🌐 Socials:
